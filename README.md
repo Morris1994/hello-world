@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi computers!
+I am Morris here, i just try to communicate with "u".
+
